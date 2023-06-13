@@ -1,0 +1,19 @@
+{
+  "item": [
+    {
+      "id": 1,
+      "checked": false,
+      "Item": "Biriyani"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "Item": "Biriyani"
+    },
+    {
+      "id": 1,
+      "checked": true,
+      "Item": "Biriyani"
+    }
+  ]
+}
